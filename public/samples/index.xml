@@ -1,0 +1,16 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>Writing Samples on Gail Hantson</title>
+   <link>http://localhost:1313/samples/</link>
+   <description>Recent content in Writing Samples on Gail Hantson</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en</language>
+   <copyright>Copyright &amp;copy; 2024 - Gail Hantson</copyright>
+   <lastBuildDate>Fri, 28 Jun 2024 18:52:55 +0000</lastBuildDate>
+   
+       <atom:link href="http://localhost:1313/samples/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+ </channel>
+</rss>

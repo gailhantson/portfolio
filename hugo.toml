@@ -1,0 +1,7 @@
+baseurl = "https://www.example.org/"
+title = "Gail Hantson"
+copyright = "Copyright &copy; 2024 - Gail Hantson"
+theme = "hugo-kiera"
+
+[params]
+    tagline = "Technical Writer - IT & Software Development"
