@@ -5,7 +5,7 @@ menu = "main"
 weight = 1
 +++
 
-I am a writer who navigates the world of technology. My work in IT and cybersecurity as a technical writer is driven by a commitment to clear communication and problem-solving. I enjoy making complex ideas accessible and crafting words that resonate with both technical and non-technical audiences.
+I am a writer who navigates the world of technology.
 
 I approach tech with curiosity and a DIY spirit. I prefer straightforward solutions and plain text, and I am the person to call on if all you need is a static site with some words on it. I do not like the taste of snake oil and I’m prepared to hold the line against hypebeasts. I’m a self-host and homelab enthusiast, a free and open-source partisan, and a strong believer in freedom from undue influence.
 
