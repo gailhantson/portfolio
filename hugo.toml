@@ -1,4 +1,4 @@
-baseurl = "https://gailhantson.github.io/portfolio"
+baseurl = "https://gailhantson.github.io/portfolio/"
 title = "Gail Hantson"
 copyright = "Copyright &copy; 2025 - Gail Hantson"
 theme = "hugo-kiera"
