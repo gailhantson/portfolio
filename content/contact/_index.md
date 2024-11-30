@@ -6,7 +6,7 @@ menu = "main"
 
 I'm open to hearing about impactful investigations and opportunities. I'm also happy to just have a chat. You can reach out on the below platforms.
 
-Linkedin - www.linkedin.com/in/gail-hantson
-Mastodon - @gailhantson@tech.lgbt
-Email - gailhantson@hotmail.com
+Linkedin - www.linkedin.com/in/gail-hantson <br>
+Mastodon - @gailhantson@tech.lgbt <br>
+Email - gailhantson@hotmail.com <br>
 Github - @gailhantson
